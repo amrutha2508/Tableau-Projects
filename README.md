@@ -9,5 +9,8 @@ The Customer Dashboard focuses on customer-related metrics, offering insights in
 
 Link : https://public.tableau.com/app/profile/amrutha.k2872/viz/InteractiveSalesandCustomerDashboard_17350901225330/CustomerDashboard
 
+### 2. Find Out How Your Salary Compares to Your Peers at the Same Pay Level
+Link: https://public.tableau.com/app/profile/amrutha.k2872/viz/Employee_salary_17355128306530/Dashboard1
+
 ### 2. House Sales Dashboard
 Link : https://public.tableau.com/views/HouseSalesDashboard_17058893055070/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
