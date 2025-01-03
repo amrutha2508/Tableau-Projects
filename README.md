@@ -13,5 +13,5 @@ Link : https://public.tableau.com/app/profile/amrutha.k2872/viz/InteractiveSales
 Link: https://public.tableau.com/app/profile/amrutha.k2872/viz/Employee_salary_17355128306530/Dashboard1
 ### 3. Find Top 5 Products of a Subcategory
 Link: https://public.tableau.com/app/profile/amrutha.k2872/viz/FindTop5ProductsofaSubcategory/Dashboard2
-### 2. House Sales Dashboard
+### 4. House Sales Dashboard
 Link : https://public.tableau.com/views/HouseSalesDashboard_17058893055070/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
